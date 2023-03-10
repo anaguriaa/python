@@ -13,8 +13,9 @@ And also the place it adds widgets in specific positions, with specific sizes.  
 
 
  <span style="font-family:Verdana"> <b>FOLLOW THE PROJECT CODE BELOW </b></span> </br>
+ 
 
-![Scaler](https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9)
+![Gato Programador](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif)
 
 
  <span style="font-family:Verdana"> <b>from tkinter import * </br>
